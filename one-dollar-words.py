@@ -33,7 +33,7 @@ def score_word(word, letter_map=None):
 def get_default_word_list_from_file(dictionary_file):
     """Param dictionary file should have one word per line
 
-       Words will be lowercased in the resultinglist.
+       Words will be lowercased in the resulting list.
        'Words' containing non-letter characters will be dropped.
     """
     with open(dictionary_file, 'r') as f:

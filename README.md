@@ -54,7 +54,7 @@ This output can be modified by providing any of the other options. For example, 
 
 The `--letter-score` option causes the script to print the value of each letter, in addition to the total score for a word:
 
-It's possible to specify one or more words on the command line, causing the script to ignore the system (or user-specified) dictionary and evaluate only commandline input. Combining this option with `--letter-score` is useful for checking your math.
+It's possible to specify one or more words on the command line, causing the script to ignore the system (or user-specified) dictionary and evaluate only command line input. Combining this option with `--letter-score` is useful for checking your math.
 
 Evaluate a word provided as an argument on the command line, for example:
 ```
